@@ -3,6 +3,7 @@ def main():
     print('And I change it every day')
     print('I work with Git !')
     print('UFO came and added this line')
+    print('*********************')
 
 
 if __name__ == '__main__':
