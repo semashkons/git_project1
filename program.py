@@ -4,6 +4,7 @@ def main():
     print('I work with Git !')
     print('UFO came and added this line')
     print('*********************')
+    print('+++++++++++++++++++++')
 
 
 if __name__ == '__main__':
